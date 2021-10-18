@@ -1,2 +1,2 @@
-# Simulacion Estocastica
-Codigos de las tareas de simulacion estocastica
+# Stochastic Simulation
+Codes from Stochatis Simulations Class
