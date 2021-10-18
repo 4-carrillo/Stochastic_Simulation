@@ -1,6 +1,7 @@
 # Projects
 
-Projects Using Computational tools for  Stochastich Methods 
+Projects Using Computational tools for  Stochastich Methods.
+Mainly programmed in Julia and R
 
 
 ## SEP1
