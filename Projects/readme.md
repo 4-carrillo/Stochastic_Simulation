@@ -1,3 +1,3 @@
 # Projects
 
-Projectos Using Computational tools for  Stochastich Methods 
+Projects Using Computational tools for  Stochastich Methods 
